@@ -1,0 +1,3 @@
+- Verificar caso de uso de propriedade opcional
+- Ler o que ele fez sobre o "kind" das chaves do schema
+- Verificar como ele trata os objetos em primeiro nivel (que não estao dentro do array)
